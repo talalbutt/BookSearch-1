@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/danahe97/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.6/2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5/parceler-api-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5">
+        <dex dex="/Users/danahe97/Documents/CodePath/Assignments/BookSearch-master/app/build/intermediates/pre-dexed/debug/parceler-api-1.1.6_b7cab0e02dd35bc0f2a4feb7d36c5e219e73ac02.jar" />
+    </item>
+
+</items>
